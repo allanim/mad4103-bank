@@ -9,6 +9,9 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "ca.lambton.bank"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "ca.lambton.bank"
     }
   },
   "dependent_plugins": {}
