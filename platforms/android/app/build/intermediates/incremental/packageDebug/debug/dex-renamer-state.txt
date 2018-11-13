@@ -1,0 +1,4 @@
+#Mon Nov 12 21:56:13 EST 2018
+base.0=/Volumes/WorkSpace/LambtonRepo/2018F/lambtonBankApp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

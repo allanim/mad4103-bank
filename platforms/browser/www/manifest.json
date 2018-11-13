@@ -1,0 +1,22 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Lambton Bank",
+  "short_name": "Lambton Bank",
+  "version": "ca.lambton.bank",
+  "description": "App for Lambton Bank : C0724540, Seongyeob Im",
+  "author": "Allan Im",
+  "icons": [
+    {
+      "src": "resources/icon.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    },
+    {
+      "src": "resources/splash.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    }
+  ],
+  "start_url": "index.html"
+}
